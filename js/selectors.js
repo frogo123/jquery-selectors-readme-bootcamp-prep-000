@@ -1,5 +1,5 @@
 // declare your functions here...
 function paragraphSelector(){
-  var selector = document.query.selectorAll('p')
+  var selector = $('p')
   return selector
 }
